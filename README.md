@@ -1,1 +1,3 @@
 # odin-recipes
+
+This project currently is a simple website using only HTML, that has several pages of meal recipes. It will demonstrate the skills I have learned in HTML so far, including working with text using paragraphs, headings and lists. It will also demonstrate my newfound abilities to insert images and links to other pages within an HTML document, and will test out some of my new knowledge of Git and writing commit messages.
