@@ -1,0 +1,17 @@
+* {
+    font-family: "Garamond", serif;
+    background-color: rgb(138, 228, 198); 
+}
+
+h1 {
+    font-size: 40px;
+}
+
+.main-heading {
+    font-size: 80px;
+}
+
+a {
+    font-weight: 800;
+}
+
